@@ -1,3 +1,11 @@
 tensorflow
 pandas
 numpy
+tensorflow-probability
+scikit-learn
+psycopg2-binary
+google-cloud-bigquery
+db-dtypes
+boto3
+ipfn
+importlib_resources
